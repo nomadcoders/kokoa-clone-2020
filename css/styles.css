@@ -18,6 +18,7 @@
 @import "screens/find.css";
 @import "screens/more.css";
 @import "screens/settings.css";
+@import "screens/chat.css";
 
 body {
   color: #2e363e;
