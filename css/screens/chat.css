@@ -41,7 +41,7 @@
 }
 
 .chat__timestamp {
-  color: white;
+  color: rgb(195, 241, 238);
   background-color: #92a4b2;
   padding: 15px;
   font-size: 14px;
@@ -73,7 +73,7 @@
 }
 
 .message__bubble {
-  background-color: white;
+  background-color: rgb(195, 230, 211);
   padding: 13px;
   font-size: 18px;
   border-radius: 15px;

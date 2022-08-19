@@ -84,7 +84,7 @@
 }
 .open-post__heart-count {
   background-color: rgba(0, 0, 0, 0.5);
-  color: white;
+  color: rgb(189, 174, 220);
   padding: 5px;
   border-radius: 20px;
   display: flex;
@@ -101,7 +101,7 @@
 
 @keyframes heartBeat {
   0% {
-    color: white;
+    color: rgb(231, 214, 214);
     transform: none;
   }
   50% {
@@ -109,7 +109,7 @@
     transform: scale(1.5);
   }
   100% {
-    color: white;
+    color: rgb(222, 208, 232);
     transform: none;
   }
 }
