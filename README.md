@@ -1,3 +1,3 @@
-# Kokoa Clone 2020 Update
+# Koala Clone 2022 Update
 
 HTML & CSS are so much fun!
